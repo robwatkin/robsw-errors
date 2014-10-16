@@ -4,7 +4,7 @@
 
 Package.describe({
     summary: "A pattern to display application errors to the user",
-    version: "0.0.1",
+    version: "1.0.1",
     git:     "https://github.com/robwatkin/robsw-errors.git"
 });
 
